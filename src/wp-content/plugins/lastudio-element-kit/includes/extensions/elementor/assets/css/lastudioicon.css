@@ -1,0 +1,602 @@
+[class*="lastudioicon-"]{
+  display: inline-block;
+  font: normal normal normal 1em/1 LaStudioIcons;
+  speak: none;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+.lastudioicon-a-add:before {
+  content: "\f101";
+}
+.lastudioicon-a-chat:before {
+  content: "\f102";
+}
+.lastudioicon-a-check:before {
+  content: "\f103";
+}
+.lastudioicon-armchair:before {
+  content: "\f104";
+}
+.lastudioicon-arrow-down:before {
+  content: "\f105";
+}
+.lastudioicon-arrow-left:before {
+  content: "\f106";
+}
+.lastudioicon-arrow-right:before {
+  content: "\f107";
+}
+.lastudioicon-arrow-up:before {
+  content: "\f108";
+}
+.lastudioicon-b-chat:before {
+  content: "\f109";
+}
+.lastudioicon-b-comment:before {
+  content: "\f10a";
+}
+.lastudioicon-b-dribbble:before {
+  content: "\f10b";
+}
+.lastudioicon-b-dropbox:before {
+  content: "\f10c";
+}
+.lastudioicon-b-evernote:before {
+  content: "\f10d";
+}
+.lastudioicon-b-facebook:before {
+  content: "\f10e";
+}
+.lastudioicon-b-flickr-circled:before {
+  content: "\f10f";
+}
+.lastudioicon-b-flickr:before {
+  content: "\f110";
+}
+.lastudioicon-b-foursquare:before {
+  content: "\f111";
+}
+.lastudioicon-b-github-circled:before {
+  content: "\f112";
+}
+.lastudioicon-b-github-squared:before {
+  content: "\f113";
+}
+.lastudioicon-b-github:before {
+  content: "\f114";
+}
+.lastudioicon-b-instagram-1:before {
+  content: "\f115";
+}
+.lastudioicon-b-instagram:before {
+  content: "\f116";
+}
+.lastudioicon-b-lastfm-squared:before {
+  content: "\f117";
+}
+.lastudioicon-b-lastfm:before {
+  content: "\f118";
+}
+.lastudioicon-b-line:before {
+  content: "\f119";
+}
+.lastudioicon-b-linkedin-squared:before {
+  content: "\f11a";
+}
+.lastudioicon-b-linkedin:before {
+  content: "\f11b";
+}
+.lastudioicon-b-meeting-2:before {
+  content: "\f11c";
+}
+.lastudioicon-b-meeting:before {
+  content: "\f11d";
+}
+.lastudioicon-b-pinterest-circled:before {
+  content: "\f11e";
+}
+.lastudioicon-b-pinterest-squared:before {
+  content: "\f11f";
+}
+.lastudioicon-b-pinterest:before {
+  content: "\f120";
+}
+.lastudioicon-b-reddit-alien:before {
+  content: "\f121";
+}
+.lastudioicon-b-reddit-squared:before {
+  content: "\f122";
+}
+.lastudioicon-b-reddit:before {
+  content: "\f123";
+}
+.lastudioicon-b-skype-outline:before {
+  content: "\f124";
+}
+.lastudioicon-b-skype:before {
+  content: "\f125";
+}
+.lastudioicon-b-soundcloud-1:before {
+  content: "\f126";
+}
+.lastudioicon-b-soundcloud:before {
+  content: "\f127";
+}
+.lastudioicon-b-spotify-1:before {
+  content: "\f128";
+}
+.lastudioicon-b-spotify:before {
+  content: "\f129";
+}
+.lastudioicon-b-telegram:before {
+  content: "\f12a";
+}
+.lastudioicon-b-tumblr-squared:before {
+  content: "\f12b";
+}
+.lastudioicon-b-tumblr:before {
+  content: "\f12c";
+}
+.lastudioicon-b-twitter-circled:before {
+  content: "\f12d";
+}
+.lastudioicon-b-twitter-squared:before {
+  content: "\f12e";
+}
+.lastudioicon-b-twitter:before {
+  content: "\f12f";
+}
+.lastudioicon-b-vimeo-circled:before {
+  content: "\f130";
+}
+.lastudioicon-b-vimeo-squared:before {
+  content: "\f131";
+}
+.lastudioicon-b-vimeo:before {
+  content: "\f132";
+}
+.lastudioicon-b-vine:before {
+  content: "\f133";
+}
+.lastudioicon-b-vkontakte:before {
+  content: "\f134";
+}
+.lastudioicon-b-whatsapp:before {
+  content: "\f135";
+}
+.lastudioicon-b-wordpress:before {
+  content: "\f136";
+}
+.lastudioicon-b-yahoo-1:before {
+  content: "\f137";
+}
+.lastudioicon-b-yahoo:before {
+  content: "\f138";
+}
+.lastudioicon-b-yelp:before {
+  content: "\f139";
+}
+.lastudioicon-b-youtube-play:before {
+  content: "\f13a";
+}
+.lastudioicon-b-youtube-squared:before {
+  content: "\f13b";
+}
+.lastudioicon-b-youtube:before {
+  content: "\f13c";
+}
+.lastudioicon-bag-2:before {
+  content: "\f13d";
+}
+.lastudioicon-bag-20:before {
+  content: "\f13e";
+}
+.lastudioicon-bag-3:before {
+  content: "\f13f";
+}
+.lastudioicon-bath-tub-1:before {
+  content: "\f140";
+}
+.lastudioicon-bath-tub-2:before {
+  content: "\f141";
+}
+.lastudioicon-bedroom-1:before {
+  content: "\f142";
+}
+.lastudioicon-bedroom-2:before {
+  content: "\f143";
+}
+.lastudioicon-bulb-63:before {
+  content: "\f144";
+}
+.lastudioicon-business-agent:before {
+  content: "\f145";
+}
+.lastudioicon-car-parking:before {
+  content: "\f146";
+}
+.lastudioicon-cart-add-2:before {
+  content: "\f147";
+}
+.lastudioicon-cart-add:before {
+  content: "\f148";
+}
+.lastudioicon-cart-refresh:before {
+  content: "\f149";
+}
+.lastudioicon-cart-return:before {
+  content: "\f14a";
+}
+.lastudioicon-cart-simple-add:before {
+  content: "\f14b";
+}
+.lastudioicon-cart-speed-1:before {
+  content: "\f14c";
+}
+.lastudioicon-cart-speed-2:before {
+  content: "\f14d";
+}
+.lastudioicon-chart-bar-32-2:before {
+  content: "\f14e";
+}
+.lastudioicon-chart-bar-32:before {
+  content: "\f14f";
+}
+.lastudioicon-chat:before {
+  content: "\f150";
+}
+.lastudioicon-check:before {
+  content: "\f151";
+}
+.lastudioicon-circle-1:before {
+  content: "\f152";
+}
+.lastudioicon-circle-10:before {
+  content: "\f153";
+}
+.lastudioicon-circle-simple-left:before {
+  content: "\f154";
+}
+.lastudioicon-circle-simple-right-2:before {
+  content: "\f155";
+}
+.lastudioicon-circle-simple-right:before {
+  content: "\f156";
+}
+.lastudioicon-clock:before {
+  content: "\f157";
+}
+.lastudioicon-compare:before {
+  content: "\f158";
+}
+.lastudioicon-contrast:before {
+  content: "\f159";
+}
+.lastudioicon-d-check:before {
+  content: "\f15a";
+}
+.lastudioicon-d-edit:before {
+  content: "\f15b";
+}
+.lastudioicon-detached-property:before {
+  content: "\f15c";
+}
+.lastudioicon-dot-3:before {
+  content: "\f15d";
+}
+.lastudioicon-down-arrow:before {
+  content: "\f15e";
+}
+.lastudioicon-e-add:before {
+  content: "\f15f";
+}
+.lastudioicon-e-delete:before {
+  content: "\f160";
+}
+.lastudioicon-e-remove:before {
+  content: "\f161";
+}
+.lastudioicon-email:before {
+  content: "\f162";
+}
+.lastudioicon-envato:before {
+  content: "\f163";
+}
+.lastudioicon-eye:before {
+  content: "\f164";
+}
+.lastudioicon-f-chat:before {
+  content: "\f165";
+}
+.lastudioicon-f-comment-1:before {
+  content: "\f166";
+}
+.lastudioicon-f-comment:before {
+  content: "\f167";
+}
+.lastudioicon-full-screen:before {
+  content: "\f168";
+}
+.lastudioicon-g-check:before {
+  content: "\f169";
+}
+.lastudioicon-globe-1:before {
+  content: "\f16a";
+}
+.lastudioicon-globe:before {
+  content: "\f16b";
+}
+.lastudioicon-heart-1:before {
+  content: "\f16c";
+}
+.lastudioicon-heart-2:before {
+  content: "\f16d";
+}
+.lastudioicon-home-2-2:before {
+  content: "\f16e";
+}
+.lastudioicon-home-2:before {
+  content: "\f16f";
+}
+.lastudioicon-home-3-2:before {
+  content: "\f170";
+}
+.lastudioicon-home-3:before {
+  content: "\f171";
+}
+.lastudioicon-home-4:before {
+  content: "\f172";
+}
+.lastudioicon-home-search:before {
+  content: "\f173";
+}
+.lastudioicon-home:before {
+  content: "\f174";
+}
+.lastudioicon-i-add-2:before {
+  content: "\f175";
+}
+.lastudioicon-i-add:before {
+  content: "\f176";
+}
+.lastudioicon-i-delete-2:before {
+  content: "\f177";
+}
+.lastudioicon-i-delete:before {
+  content: "\f178";
+}
+.lastudioicon-ic_compare_24px:before {
+  content: "\f179";
+}
+.lastudioicon-ic_compare_arrows_24px:before {
+  content: "\f17a";
+}
+.lastudioicon-ic_format_quote_24px:before {
+  content: "\f17b";
+}
+.lastudioicon-ic_mail_outline_24px:before {
+  content: "\f17c";
+}
+.lastudioicon-ic_share_24px:before {
+  content: "\f17d";
+}
+.lastudioicon-language:before {
+  content: "\f17e";
+}
+.lastudioicon-left-arrow:before {
+  content: "\f17f";
+}
+.lastudioicon-letter-1:before {
+  content: "\f180";
+}
+.lastudioicon-letter:before {
+  content: "\f181";
+}
+.lastudioicon-list-bullet-1:before {
+  content: "\f182";
+}
+.lastudioicon-list-bullet-2:before {
+  content: "\f183";
+}
+.lastudioicon-mail-1:before {
+  content: "\f184";
+}
+.lastudioicon-mail-2:before {
+  content: "\f185";
+}
+.lastudioicon-mail:before {
+  content: "\f186";
+}
+.lastudioicon-marker-3:before {
+  content: "\f187";
+}
+.lastudioicon-measure-17:before {
+  content: "\f188";
+}
+.lastudioicon-measure-big:before {
+  content: "\f189";
+}
+.lastudioicon-menu-1:before {
+  content: "\f18a";
+}
+.lastudioicon-menu-2:before {
+  content: "\f18b";
+}
+.lastudioicon-menu-3-1:before {
+  content: "\f18c";
+}
+.lastudioicon-menu-3-2:before {
+  content: "\f18d";
+}
+.lastudioicon-menu-4-1:before {
+  content: "\f18e";
+}
+.lastudioicon-menu-4-2:before {
+  content: "\f18f";
+}
+.lastudioicon-menu-5:before {
+  content: "\f190";
+}
+.lastudioicon-menu-6:before {
+  content: "\f191";
+}
+.lastudioicon-menu-7:before {
+  content: "\f192";
+}
+.lastudioicon-menu-8-1:before {
+  content: "\f193";
+}
+.lastudioicon-menu-8-2:before {
+  content: "\f194";
+}
+.lastudioicon-microsoft:before {
+  content: "\f195";
+}
+.lastudioicon-n-edit:before {
+  content: "\f196";
+}
+.lastudioicon-new-construction:before {
+  content: "\f197";
+}
+.lastudioicon-phone-1:before {
+  content: "\f198";
+}
+.lastudioicon-phone-2:before {
+  content: "\f199";
+}
+.lastudioicon-phone-call-1:before {
+  content: "\f19a";
+}
+.lastudioicon-phone-call-2:before {
+  content: "\f19b";
+}
+.lastudioicon-phone-call:before {
+  content: "\f19c";
+}
+.lastudioicon-pin-3-1:before {
+  content: "\f19d";
+}
+.lastudioicon-pin-3-2:before {
+  content: "\f19e";
+}
+.lastudioicon-pin-check:before {
+  content: "\f19f";
+}
+.lastudioicon-quite-happy:before {
+  content: "\f1a0";
+}
+.lastudioicon-quote-1:before {
+  content: "\f1a1";
+}
+.lastudioicon-quote-2:before {
+  content: "\f1a2";
+}
+.lastudioicon-right-arrow:before {
+  content: "\f1a3";
+}
+.lastudioicon-search-content:before {
+  content: "\f1a4";
+}
+.lastudioicon-search-property:before {
+  content: "\f1a5";
+}
+.lastudioicon-search-zoom-in:before {
+  content: "\f1a6";
+}
+.lastudioicon-search-zoom-out:before {
+  content: "\f1a7";
+}
+.lastudioicon-shape-star-1:before {
+  content: "\f1a8";
+}
+.lastudioicon-shape-star-2:before {
+  content: "\f1a9";
+}
+.lastudioicon-shield:before {
+  content: "\f1aa";
+}
+.lastudioicon-shopping-cart-1:before {
+  content: "\f1ab";
+}
+.lastudioicon-shopping-cart-2:before {
+  content: "\f1ac";
+}
+.lastudioicon-shopping-cart-3:before {
+  content: "\f1ad";
+}
+.lastudioicon-single-01-1:before {
+  content: "\f1ae";
+}
+.lastudioicon-single-01-2:before {
+  content: "\f1af";
+}
+.lastudioicon-small-triangle-down:before {
+  content: "\f1b0";
+}
+.lastudioicon-small-triangle-left:before {
+  content: "\f1b1";
+}
+.lastudioicon-small-triangle-right:before {
+  content: "\f1b2";
+}
+.lastudioicon-small-triangle-up:before {
+  content: "\f1b3";
+}
+.lastudioicon-sort-tool:before {
+  content: "\f1b4";
+}
+.lastudioicon-star-rate-1:before {
+  content: "\f1b5";
+}
+.lastudioicon-star-rate-2:before {
+  content: "\f1b6";
+}
+.lastudioicon-subtitles:before {
+  content: "\f1b7";
+}
+.lastudioicon-support248:before {
+  content: "\f1b8";
+}
+.lastudioicon-tag-check:before {
+  content: "\f1b9";
+}
+.lastudioicon-tag:before {
+  content: "\f1ba";
+}
+.lastudioicon-time-clock:before {
+  content: "\f1bb";
+}
+.lastudioicon-transparent:before {
+  content: "\f1bc";
+}
+.lastudioicon-triangle-left:before {
+  content: "\f1bd";
+}
+.lastudioicon-triangle-right:before {
+  content: "\f1be";
+}
+.lastudioicon-up-arrow:before {
+  content: "\f1bf";
+}
+.lastudioicon-voice-recognition:before {
+  content: "\f1c0";
+}
+.lastudioicon-web-link:before {
+  content: "\f1c1";
+}
+.lastudioicon-zoom-1:before {
+  content: "\f1c2";
+}
+.lastudioicon-zoom-2:before {
+  content: "\f1c3";
+}
+.lastudioicon-zoom-88:before {
+  content: "\f1c4";
+}
+@font-face{
+  font-family: 'LaStudioIcons';
+  src: url(../fonts/LaStudioIcons.woff2) format("woff2"), url(../fonts/LaStudioIcons.woff) format("woff"), url(../fonts/LaStudioIcons.ttf) format("truetype"), url(../fonts/LaStudioIcons.svg#LaStudioIcons) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
